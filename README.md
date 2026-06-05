@@ -61,7 +61,7 @@ The repositories here are organized around my current public work:
 | Repository | What it represents |
 | --- | --- |
 | [`yukiyuki-ai`](https://github.com/yukiyuki-ai/yukiyuki-ai) | This profile README and the front door to my GitHub work |
-| [`yukiyuki`](https://github.com/yukiyuki-ai/yukiyuki) | My personal site, public pages, founder-facing tools, and reusable AI skills |
+| [`yukiyuki`](https://github.com/yukiyuki-ai/yukiyuki) | Public index for my personal site, Founder AI Coach, and operator workflows |
 | Founder AI Coach workflows | Stage diagnosis, competitive research, Reddit signals, content OS, GTM planning, and review loops |
 
 I keep this account focused on practical AI workflows, market signal, founder-led GTM, and public experiments that can become reusable tools.
