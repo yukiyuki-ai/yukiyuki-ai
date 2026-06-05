@@ -2,7 +2,18 @@
 
 Founder of [Stablehunter](https://stablehunter.ai). I build AI-native operating tools for founders, marketers, and content operators.
 
-My work sits at the intersection of market signal, GTM judgment, content systems, and founder decision-making. I use AI not as a content shortcut, but as a way to turn messy information into sharper loops: research, synthesis, action, and review.
+My work sits at the intersection of market signal, GTM judgment, content systems, and founder decision-making.
+
+I use AI not as a content shortcut, but as a way to turn messy information into sharper operating loops: research, synthesis, action, and review.
+
+## Start here
+
+I am turning my own founder workflow into public, reusable tools for:
+
+- founders who still do their own GTM
+- marketers who need sharper market signals
+- content operators who want better research loops
+- small teams building with AI before they have a full internal stack
 
 ## What I am building
 
@@ -18,12 +29,14 @@ It helps people diagnose where they are, find evidence gaps, avoid premature mov
 
 Small, reusable workflows for people doing growth, content, market research, and founder-led GTM:
 
-- competitive research
-- market signal discovery
-- Reddit and X signal extraction
-- content strategy
-- GTM thinking
-- founder-facing decision support
+| Workflow | Useful for |
+| --- | --- |
+| Competitive research | Mapping alternatives, positioning gaps, and market categories |
+| Market signal discovery | Finding early demand, narrative shifts, and product opportunities |
+| Reddit and X signal extraction | Turning messy social data into usable user language and objections |
+| Content strategy | Building founder-led content systems without generic AI output |
+| GTM thinking | Moving from vague market ideas to sharper next actions |
+| Founder decision support | Diagnosing stage, evidence gaps, and premature moves |
 
 ### Stablehunter
 
@@ -48,12 +61,3 @@ AI is most useful when it becomes part of an operating system.
 Not just prompts. Not just automation.
 
 A good AI workflow should help a person notice better signals, make clearer decisions, and act faster without losing judgment.
-
-## Current focus
-
-I am turning my own founder workflow into public, reusable tools for:
-
-- founders who still do their own GTM
-- marketers who need sharper market signals
-- content operators who want better research loops
-- small teams building with AI before they have a full internal stack
