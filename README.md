@@ -25,16 +25,19 @@ Small, reusable workflows for people doing growth, content, market research, and
 - GTM thinking
 - founder-facing decision support
 
-### StableHunter
+### StableHunt
 
-Tracking Web3, AI, payments, stablecoins, and on-chain market opportunities.
+Two products around stablecoin and on-chain market intelligence:
 
-[Visit StableHunter](https://stablehunter.ai)
+- [StableHunt.ai](https://stablehunt.ai): tracking Web3, AI, payments, stablecoins, and on-chain market opportunities.
+- [StableHunt.com](https://stablehunt.com): a navigation site for stablecoin and on-chain finance resources.
 
 ## Public proof of work
 
 - Personal site: [yukiyuki.ai](https://yukiyuki.ai)
 - Founder AI Coach: [yukiyuki.ai/founderaicoach](https://yukiyuki.ai/founderaicoach)
+- StableHunt.ai: [stablehunt.ai](https://stablehunt.ai)
+- StableHunt.com: [stablehunt.com](https://stablehunt.com)
 - Money in Motion: [moneyinmotion.xyz](https://moneyinmotion.xyz)
 - X: [@Yukiiiiiya](https://x.com/Yukiiiiiya)
 
@@ -54,4 +57,3 @@ I am turning my own founder workflow into public, reusable tools for:
 - marketers who need sharper market signals
 - content operators who want better research loops
 - small teams building with AI before they have a full internal stack
-
