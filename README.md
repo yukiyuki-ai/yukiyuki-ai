@@ -13,6 +13,7 @@ I am turning my own founder workflow into public, reusable tools for:
 - founders who still do their own GTM
 - marketers who need sharper market signals
 - content operators who want better research loops
+- builders tracking Web3, agentic payment, and stablecoin payment infrastructure
 - small teams building with AI before they have a full internal stack
 
 ## What I am building
@@ -36,13 +37,14 @@ Small, reusable workflows for people doing growth, content, market research, and
 | Reddit and X signal extraction | Turning messy social data into usable user language and objections |
 | Content strategy | Building founder-led content systems without generic AI output |
 | GTM thinking | Moving from vague market ideas to sharper next actions |
+| Agentic payment signals | Tracking AI agent wallets, stablecoin payments, HTTP 402/x402, and wallet UX |
 | Founder decision support | Diagnosing stage, evidence gaps, and premature moves |
 
 ### Stablehunter
 
 Two products around stablecoin and on-chain market intelligence:
 
-- [Stablehunter.ai](https://stablehunter.ai): tracking Web3, AI, payments, stablecoins, and on-chain market opportunities.
+- [Stablehunter.ai](https://stablehunter.ai): tracking Web3, AI, payments, stablecoins, agentic payment, and on-chain market opportunities.
 - [Stablehunter.com](https://stablehunter.com): a navigation site for stablecoin and on-chain finance resources.
 
 ## Public proof of work
@@ -64,7 +66,7 @@ The repositories here are organized around my current public work:
 | [`yukiyuki`](https://github.com/yukiyuki-ai/yukiyuki) | Public index for my personal site, Founder AI Coach, and operator workflows |
 | Founder AI Coach workflows | Stage diagnosis, competitive research, Reddit signals, content OS, GTM planning, and review loops |
 
-I keep this account focused on practical AI workflows, market signal, founder-led GTM, and public experiments that can become reusable tools.
+I keep this account focused on practical AI workflows, market signal, founder-led GTM, Web3 payment infrastructure, and public experiments that can become reusable tools.
 
 ## How I think about AI
 
@@ -73,3 +75,5 @@ AI is most useful when it becomes part of an operating system.
 Not just prompts. Not just automation.
 
 A good AI workflow should help a person notice better signals, make clearer decisions, and act faster without losing judgment.
+
+For agentic payment, my core lens is simple: AI can decide and execute; Web3 payment rails handle authorization, settlement, ownership, and accountability.
