@@ -37,7 +37,7 @@ Small, reusable workflows for people doing growth, content, market research, and
 | Reddit and X signal extraction | Turning messy social data into usable user language and objections |
 | Content strategy | Building founder-led content systems without generic AI output |
 | GTM thinking | Moving from vague market ideas to sharper next actions |
-| Agentic payment signals | Tracking AI agent wallets, stablecoin payments, HTTP 402/x402, and wallet UX |
+| [Agentic payment signals](https://github.com/Stablehunter/agentic-payment-signal) | Tracking AI agent wallets, stablecoin payments, HTTP 402/x402, and wallet UX |
 | Founder decision support | Diagnosing stage, evidence gaps, and premature moves |
 
 ### Stablehunter
@@ -53,6 +53,7 @@ Two products around stablecoin and on-chain market intelligence:
 - Founder AI Coach: [yukiyuki.ai/founderaicoach](https://yukiyuki.ai/founderaicoach)
 - Stablehunter.ai: [stablehunter.ai](https://stablehunter.ai)
 - Stablehunter.com: [stablehunter.com](https://stablehunter.com)
+- Agentic Payment Signal: [github.com/Stablehunter/agentic-payment-signal](https://github.com/Stablehunter/agentic-payment-signal)
 - Money in Motion: [moneyinmotion.xyz](https://moneyinmotion.xyz)
 - X: [@Yukiiiiiya](https://x.com/Yukiiiiiya)
 
@@ -64,6 +65,7 @@ The repositories here are organized around my current public work:
 | --- | --- |
 | [`yukiyuki-ai`](https://github.com/yukiyuki-ai/yukiyuki-ai) | This profile README and the front door to my GitHub work |
 | [`yukiyuki`](https://github.com/yukiyuki-ai/yukiyuki) | Public index for my personal site, Founder AI Coach, and operator workflows |
+| [`agentic-payment-signal`](https://github.com/Stablehunter/agentic-payment-signal) | Public signal system for agentic payment infrastructure, stablecoin rails, wallets, risk, and compliance |
 | Founder AI Coach workflows | Stage diagnosis, competitive research, Reddit signals, content OS, GTM planning, and review loops |
 
 I keep this account focused on practical AI workflows, market signal, founder-led GTM, Web3 payment infrastructure, and public experiments that can become reusable tools.
